@@ -1,6 +1,6 @@
 # 👨‍🏫 Julio Cesar Marques da Rocha
 
-**`Desenvolvedor Backend`**
+**`Professor de Física e Desenvolvedor`**
 
 Meu nome é Julio Cesar Marques da Rocha, tenho 30 anos e sou natural da Paraíba. Sou formado em Física, com doutorado obtido na UFPB no ano de 2022. Atualmente, sou professor na Universidade Estadual da Paraíba. Sou apaixonado por tecnologia e sua inserção no ensino da Física como elemento didático. Gosto de me aventurar pelo mundo do backend e análise de dados.
 
@@ -25,6 +25,14 @@ Meu nome é Julio Cesar Marques da Rocha, tenho 30 anos e sou natural da Paraíb
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="LaTeX" 
+    title="LaTeX"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/latex/original.svg" 
+/>
 <img 
     align="left" 
     alt="JavaScript" 
